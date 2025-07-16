@@ -77,4 +77,4 @@ python app.py
 
 ## 📜 Лицензия
 
-Этот проект распространяется под лицензией MIT. Подробнее см. в файле [LICENSE](https://github.com/justsilvia/people-counter/blob/main/LICENSE)
+Этот проект распространяется под лицензией MIT. Подробнее см. в файле [LICENSE](https://github.com/justsilvia/people-counter/blob/main/LICENSE).
